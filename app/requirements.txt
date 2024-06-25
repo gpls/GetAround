@@ -1,0 +1,10 @@
+streamlit
+pandas
+boto3
+gunicorn
+scikit-learn
+matplotlib
+seaborn
+plotly
+streamlit_toggle
+streamlit_vertical_slider

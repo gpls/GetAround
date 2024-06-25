@@ -1,0 +1,39 @@
+# Ignorer les fichiers de configuration spécifiques à l'environnement
+.env
+*.local
+
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer les dossiers contenant des données volumineuses ou générées
+mlruns/
+data/
+datasets/
+notebooks/
+models/
+downloaded_model/
+
+# Ignorer les fichiers de cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorer les dossiers et fichiers créés par l'IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorer les bibliothèques et fichiers compilés
+lib/
+lib64/
+*.egg-info/
+dist/
+build/
+
+# Ignorer les fichiers de configuration du système
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers spécifiques à Heroku
+.heroku/
