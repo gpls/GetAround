@@ -122,7 +122,7 @@ Pour répondre à ces défis, nous nous sommes fixés plusieurs objectifs clés 
 ### IV. Modèles de Machine Learning et API
 
 - **Entraînement des Modèles** : Utilisation de MlFlow pour entraîner et évaluer plusieurs modèles de machine learning de prédiction de prix de location.
-- **Déploiement d'une API** : Création d'un API en ligne pour prédire les prix idéaux de location par jour en fonction des différentes caractéristiques des véhicules.
+- **Déploiement de l'API** : Création d'un API en ligne pour prédire les prix idéaux de location par jour en fonction des différentes caractéristiques des véhicules.
 
 ### V. Dashboard 
 
@@ -139,6 +139,6 @@ Pour répondre à ces défis, nous nous sommes fixés plusieurs objectifs clés 
 Ce projet nous a permis d'appréhender de façon holistique les défis liés à la gestion des retards au retour des véhicules, et de proposer des solutions basées sur une analyse approfondie des données. Les recommandations découlant de cette analyse visent à améliorer l'expérience client tout en garantissant la réussite financière de l'entreprise.
 
 ---
-### Author
+### Auteur
 
 Paola Libany 
