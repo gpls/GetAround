@@ -139,6 +139,12 @@ Pour répondre à ces défis, nous nous sommes fixés plusieurs objectifs clés 
 Ce projet nous a permis d'appréhender de façon holistique les défis liés à la gestion des retards au retour des véhicules, et de proposer des solutions basées sur une analyse approfondie des données. Les recommandations découlant de cette analyse visent à améliorer l'expérience client tout en garantissant la réussite financière de l'entreprise.
 
 ---
+
+## Installations requises
+Docker
+Uvicorn
+MlFlow
+
 ### Auteur
 
 Paola Libany 
