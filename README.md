@@ -141,8 +141,8 @@ Ce projet nous a permis d'appréhender de façon holistique les défis liés à 
 ---
 
 ## Installations requises
-Docker
-Uvicorn
+Docker,
+Uvicorn,
 MlFlow
 
 ### Auteur
