@@ -19,10 +19,11 @@ Deliverables :
 
 ## Introduction
 
-C'est une plateforme mettant en relation propriétaires de véhicules, particuliers comme professionnels, et conducteurs. Depuis la plateforme, le service permet aux propriétaires de partager leurs véhicules et aux conducteurs d'accéder à des véhicules en libre-service autour d'eux.
+Getaround une plateforme mettant en relation propriétaires de véhicules, particuliers comme professionnels, et conducteurs. Depuis la plateforme, le service permet aux propriétaires de partager leurs véhicules et aux conducteurs d'accéder à des véhicules en libre-service autour d'eux.
+
  Notre objectif est d'explorer les divers processus opérationnels liés à la location de véhicules, d'analyser l'impact des retards au retour des voitures, et de proposer des solutions pour optimiser l'expérience des utilisateurs.
 
- Le check-in et le check-out de nos locations peuvent se faire avec trois flux distincts :
+ Le check-in et le check-out des locations peuvent se faire avec trois flux distincts :
 
 📱 Contrat de location mobile sur applications natives : chauffeur et propriétaire se rencontrent et signent tous deux le contrat de location sur le smartphone du propriétaire
 Connect: le conducteur ne rencontre pas le propriétaire et ouvre la voiture avec son smartphone
