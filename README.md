@@ -78,7 +78,7 @@ Pour répondre à ces défis, nous nous sommes fixés plusieurs objectifs clés 
 - **Installation et Configuration** : Déploiement en ligne de l'application, de l'API, et des modèles de machine learning à l'aide de Heroku, FastAPI, et MlFlow.
 - **Tests et Réplication** : Utilisation de Docker pour tester localement les déploiements, et mise en œuvre des corrections à partir des tests en production.
 
-## Conclusion et Recommandations
+## Conclusion
 
 Ce projet nous a permis d'appréhender de façon holistique les défis liés à la gestion des retards au retour des véhicules, et de proposer des solutions basées sur une analyse approfondie des données. Les recommandations découlant de cette analyse visent à améliorer l'expérience client tout en garantissant la réussite financière de l'entreprise.
 
